@@ -99,7 +99,7 @@
 <div class="container-fluid">
     <div class="row">
       <!-- 左侧导航栏 -->
-      <div class="col-md-2 sidebar">
+      <div class="col-sm-3 col-md-2 sidebar">
          <ul class="nav nav-sidebar">
             <li class="active"><a href='#'>首页</a></li>
          </ul>
@@ -117,7 +117,7 @@
       </div>
 
      <!--  右侧面板 -->
-     <div class="col-md-10">
+     <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
          <h1>控制面板</h1>
      </div>
     </div>
